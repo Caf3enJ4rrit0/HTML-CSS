@@ -1,2 +1,2 @@
 # HTML y CSS
-Curso "HTML y CSS para principiantes" de  <strong>Chicas en Sistemas</strong>
+Curso <em>"HTML y CSS para principiantes"<em> de  <strong>Chicas en Sistemas</strong>
